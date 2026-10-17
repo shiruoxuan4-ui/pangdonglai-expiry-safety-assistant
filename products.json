@@ -1,0 +1,21 @@
+{
+  "生鲜-叶菜": {"default_shelf_life_days": 3, "storage": "冷藏 0-4℃"},
+  "生鲜-水果": {"default_shelf_life_days": 7, "storage": "冷藏/常温"},
+  "熟食-卤味": {"default_shelf_life_days": 2, "storage": "冷藏 0-4℃"},
+  "熟食-面点": {"default_shelf_life_days": 3, "storage": "冷藏/常温"},
+  "烘焙-现烤面包": {"default_shelf_life_days": 2, "storage": "常温避光"},
+  "烘焙-包装糕点": {"default_shelf_life_days": 30, "storage": "常温避光"},
+  "乳制品-鲜奶": {"default_shelf_life_days": 7, "storage": "冷藏 2-6℃"},
+  "乳制品-酸奶": {"default_shelf_life_days": 21, "storage": "冷藏 2-6℃"},
+  "乳制品-常温奶": {"default_shelf_life_days": 180, "storage": "常温避光"},
+  "肉禽-冷鲜肉": {"default_shelf_life_days": 3, "storage": "冷藏 0-4℃"},
+  "肉禽-冷冻肉": {"default_shelf_life_days": 180, "storage": "冷冻 -18℃"},
+  "水产-冰鲜鱼": {"default_shelf_life_days": 2, "storage": "冷藏 0-4℃"},
+  "水产-冷冻虾": {"default_shelf_life_days": 180, "storage": "冷冻 -18℃"},
+  "零食-膨化": {"default_shelf_life_days": 270, "storage": "常温避光"},
+  "饮料-瓶装": {"default_shelf_life_days": 365, "storage": "常温避光"},
+  "粮油-大米": {"default_shelf_life_days": 365, "storage": "常温干燥"},
+  "粮油-食用油": {"default_shelf_life_days": 540, "storage": "常温避光"},
+  "调味-酱油": {"default_shelf_life_days": 540, "storage": "常温避光"},
+  "日化-洗护": {"default_shelf_life_days": 1095, "storage": "常温"}
+}
